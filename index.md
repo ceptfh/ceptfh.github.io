@@ -40,5 +40,5 @@ Registered in Scotland: SC817653
 <!-- ### Worldcoin Limited
 Registered in Scotland: SC817653  
 -->
-Email: [contact@toolsforhumanity.co.uk](mailto:contact@toolsforhumanity.co.uk)  
+Email: [adam@toolsforhumanity.co.uk](mailto:adam@toolsforhumanity.co.uk)  
 Website: [www.toolsforhumanity.ai](https://www.toolsforhumanity.ai/) 
