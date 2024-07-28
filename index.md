@@ -6,7 +6,7 @@ layout: home
 
 # Tools For Humanity
 
-We're an open-source communications and technology company, <br>
+We're an open-source communications technology company, <br>
 eager to help advance the efforts of the brilliant folks at: <br>
 Tools for Humanity and Worldcoin Foundation. <br>
 
@@ -14,25 +14,24 @@ If you are as excited as we are <br>
 (about Worldcoin Orbs arriving in the UK) <br>
 please [get in touch](founder@toolsforhumanity.ai). <br> 
 
-Meet like-minded folks in Scotland:<br>
-[edinburgh@worldcoin.training](edinburgh@worldcoin.training) <br>
+Meet like-minded folks in [Scotland](edinburgh@worldcoin.training) <br>
 
 
-For a live stream of venues near you <br>
-with a Worldcoin Orb Operator: <br> 
-[online@worldcoin.live](online@worldcoin.live) <br>
+For a [live stream](online@worldcoin.live) of venues near you <br>
+with a Worldcoin Orb Operator: <br>
 
+![OrbInTimesSquare](images/OrbTimesSquare.jpeg)
 
-## Join us:  
+### Join us:  
 
 [community@worldcoin.ltd](community@worldcoin.ltd) 
-
 
 <!-- 
 And, coming soon: "céad míle fáilte"  
 greetings@worldcoin.irish
 -->
-We'd love to hear from you.
+**We'd love to hear from you.**
+<br>
 
 ---
 ### Tools For Humanity Limited
