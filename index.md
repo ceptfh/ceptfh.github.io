@@ -6,8 +6,8 @@ layout: home
 
 # Tools For Humanity
 
-We're an open-source communications technology company, <br>
-eager to help advance the efforts of the brilliant folks at: <br>
+We're an open-source communications company, <br>
+eager to advance the efforts of the brilliant team at: <br>
 Tools for Humanity and Worldcoin Foundation. <br>
 
 If you are as excited as we are <br>
