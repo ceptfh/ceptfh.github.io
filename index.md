@@ -2,6 +2,10 @@
 layout: home
 ---
 
+![LunaWithOrbInPicadilly](URL_to_image)
+
+# Tools for Humanity
+
 We're an open-source communications and technology company, <br>
 eager to help advance the efforts of the brilliant folks at: <br>
 Tools for Humanity and Worldcoin Foundation. <br>
