@@ -2,23 +2,26 @@
 layout: home
 ---
 
-Tools For Humanity
+We're an open-source communications and technology company, <br>
+eager to help advance the efforts of the brilliant folks at: <br>
+Tools for Humanity and Worldcoin Foundation. <br>
 
-We are an open-source company,  eager to help advance the efforts of the brilliant folks at:  Tools for Humanity and Worldcoin Foundation.
+If you are as excited as we are <br>
+(about Worldcoin Orbs arriving in the UK) <br>
+please [get in touch](founder@toolsforhumanity.ai). <br> 
 
-If you are as excited as we are  (about Worldcoin Orbs arriving in the UK)  please get in touch.  
-
-
-To tell us about your killer app:  founder@toolsforhumanity.ai  
-
-
-Meet like-minded folks in Scotland:  edinburgh@worldcoin.training  
-
-
-For a live stream of venues near you with a Worldcoin Orb Operator:  online@worldcoin.live  
+Meet like-minded folks in Scotland:<br>
+[edinburgh@worldcoin.training](edinburgh@worldcoin.training) <br>
 
 
-join us:  community@worldcoin.ltd  
+For a live stream of venues near you <br>
+with a Worldcoin Orb Operator: <br> 
+[online@worldcoin.live](online@worldcoin.live) <br>
+
+
+## Join us:  
+
+[community@worldcoin.ltd](community@worldcoin.ltd) 
 
 
 <!-- 
