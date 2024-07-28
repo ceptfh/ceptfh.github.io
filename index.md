@@ -2,7 +2,7 @@
 layout: home
 ---
 
-![LunaWithOrbInPicadilly](images/OrbPiccadilly3.jpg)
+![LunaWithOrbInPicadilly](images/OrbPiccadilly3.jpeg)
 
 # Tools For Humanity
 
