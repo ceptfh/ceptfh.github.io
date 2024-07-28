@@ -12,7 +12,7 @@ Tools for Humanity and Worldcoin Foundation. <br>
 
 If you are as excited as we are <br>
 (about Worldcoin Orbs arriving in the UK) <br>
-please [get in touch: founder@toolsforhumanity.ai](founder@toolsforhumanity.ai). <br> 
+please get in touch: [founder@toolsforhumanity.ai](founder@toolsforhumanity.ai). <br> 
 
 Meet like-minded folks in [Scotland](edinburgh@worldcoin.training) <br>
 
