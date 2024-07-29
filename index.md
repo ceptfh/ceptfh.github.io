@@ -6,7 +6,7 @@ layout: home
 
 # Tools For Humanity
 
-We're an open-source communications company, <br>
+We're an open-source company, <br>
 eager to assist the efforts of the brilliant team at: <br>
 Tools for Humanity and Worldcoin Foundation. <br>
 
@@ -26,10 +26,8 @@ with a Worldcoin Orb Operator: <br>
 
 [community@worldcoin.ltd](community@worldcoin.ltd) 
 
-<!-- 
-And, coming soon: "céad míle fáilte"  
-greetings@worldcoin.irish
--->
+Coming soon: ["céad míle fáilte"](greetings@worldcoin.irish)
+
 **We'd love to hear from you.**
 <br>
 
