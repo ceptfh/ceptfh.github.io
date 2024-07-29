@@ -1,3 +1,13 @@
+# Site settings
+
 title: Tools For Humanity
-description: state mission
+description: AI for All
+baseurl: ""
+url: "https://www.toolsforhumanity.ai"
+
+# Build settings
+
 theme: minima
+plug-ins: 
+  - jekyll-feed
+  
