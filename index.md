@@ -31,7 +31,11 @@ Coming soon: ["céad míle fáilte"](greetings@worldcoin.irish)
 
 **We'd love to hear from you.**
 <br>
-
+<br>
+<br>
+<br>
+<br>
+<br>
 ---
 ### Tools For Humanity Limited
 Registered in Scotland: SC817653  
