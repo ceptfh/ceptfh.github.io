@@ -38,7 +38,7 @@ Coming soon: ["céad míle fáilte"](greetings@worldcoin.irish)
 <br>
 ---
 ### Tools For Humanity Limited
-Registered in Scotland: SC817653  
+Registered in Scotland: [SC817653](https://find-and-update.company-information.service.gov.uk/company/SC817653)  
 [Codebase](https://www.thisiscodebase.com/) Argyle House, <br>
 3 Lady Lawson Street, <br>
 Edinburgh, EH3 9DR, <br>
