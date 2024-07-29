@@ -36,7 +36,9 @@ Coming soon: ["céad míle fáilte"](greetings@worldcoin.irish)
 ### Tools For Humanity Limited
 Registered in Scotland: SC817653  
 [Codebase](https://www.thisiscodebase.com/) Argyle House, <br>
-3 Lady Lawson Street, Edinburgh, EH3 9DR, United Kingdom.<br>
+3 Lady Lawson Street, <br>
+Edinburgh, EH3 9DR, <br>
+United Kingdom.<br>
 <!-- ### Worldcoin Limited
 Registered in Scotland: SC817653  
 -->
